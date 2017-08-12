@@ -64,7 +64,7 @@ h3 {
 /* header */
 
 #masthead {
-  position: relative;
+  position: fixed;
   z-index: 99;
   width: 100%;
   margin: 0 0 30px;
@@ -434,8 +434,8 @@ nav a {
 
 /*Did not understand how to do about, portfolio and contact to 
 get in middle*/
-header#masthead {
-  position: absolute;
+#masthead {
+  position: relative;
   z-index: 99;
   width: 100%;
   margin: 0px auto;
