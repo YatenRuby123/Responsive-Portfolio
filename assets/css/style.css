@@ -300,14 +300,14 @@ input[type=submit] {
   margin-bottom: 0;
   }
   .main-section {
- /* float: left;*/
+/* float: left;*/
   width: 100%;
   max-width: 450px;
   padding: 30px;
   margin: 0 0 40px;
   background: #fff;
   border: 1px solid #ddd;
-  margin-top: 150px;
+  margin-top:150px;
   margin-left: 100px;
 }
 .container {
